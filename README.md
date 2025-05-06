@@ -9,6 +9,8 @@ This is a modern, single-page web application built using React JS and Material 
 [**Visit the Live Demo**]  (https://rishans-loan-calculator-app.netlify.app/)
 
 
+
+
 ## Features
 
 * **Loan EMI Calculation:** Calculates the EMI based on the principal loan amount, annual interest rate, and loan tenure.
@@ -51,6 +53,8 @@ Where:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Rishanmc/Loan-Calculator-App.git
+
+https://rishanmv.github.io/Loan-Calculator-App/
 ```
 
 2. Install dependencies:
